@@ -1,41 +1,42 @@
-# Bandersnatch Interactive Player (based on html5 video player)
+# Bandersnatch Интерактивен плеър (базиран върху html5 видео плеър)
 
-With this online(html) video player you can watch `Bandersnatch` episode of `Black Mirror` **interactively**.
+С този онлайн (html) видео плеър you мможе да гледате епизода`Bandersnatch` от `Black Mirror` **Интерактивно**.
 
-[Live demo](https://kockof.github.io/bandersnatch/)
+[Демо](https://kockof.github.io/bandersnatch/)
 
-## How to use
+## Как се използва
 
-The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & drop the file in [this](https://kockof.github.io/bandersnatch) page and enjoy!
-## Screenshot
+Единствено ви трябва 5 часовия видео файл `Bandersnatch`, Плъзнете & пуснете файла [в тази](https://kockof.github.io/bandersnatch) страница и се наслаждавайте!
+## Снимки
 
-- full screen mode
+- full screen режим
 
 ![Screenshot](screenshot/full-screen.png)
 
-- non full screen mode
+- нормален режим 
 - ![Screenshot](screenshot/non-full-screen.png)
 
-## Tips
+## Съвети
 
-- Only work on google chrome (Doesn't work on Firefox; codec problems)
-- Download `Bandersnatch` video file (`5:12:14`)
-- Drag it on white box on [page](https://kockof.github.io/bandersnatch/) :)
+- Работи с Google Chrome и Microsoft Edge (Не работи с Firefox; проблеми с кодеците)
+- Свалете видео файла`Bandersnatch` (`5:12:14`)
+- Плъзнете го до [страницата](https://kockof.github.io/bandersnatch/) :)
 - `Persian`, `English`, `Bulgarian`, `Spanish`, `Hebrew`, `Portuguese`, `Greek`, `Turkish`, `Polish`, `Indonesian`, `Russian` , `French` , `Hungarian` , `Korean` ,`German`
 
-\*subtitle available, If you want add another language subtitle, tell me.
+\*налични субтитри, ако имате други файлове със субтитри мога да ги добавя.
 
-- to change subtitle : right click on video , enable show controls , after that . on bottom,right you see menu icon (3 vertical dot) then you can subtitle section
-- Note : after change subtitle , disable show controls ,if dont disable it on full screen video,you cant see option selector
+- За смяна на субтитрите: : Десен бутон върху видеото , Изберете "Покажи всички контроли" , Нтиснете долу в дясно трите ветикални точки и може да изберете субтитрите
+- Бележка: не използвайте бутона "full screen" на плеъра ако е включено "Покажи всички контроли".
+									Няма да се виждат менютата с изборите.
 
-## Controls
+## Управление
 
-- <kbd>F</kbd> - Toggle fullscreen
-- <kbd>R</kbd> - Restart video
-- <kbd>→</kbd> - Jump to the next segment (or to the next interaction zone)
-- <kbd>←</kbd> - Jump to the previous segment
-- <kbd>Space</kbd> - Toggle play and pause
+- <kbd>F</kbd> - Пуска и спира fullscreen
+- <kbd>R</kbd> - Рестартира видеото
+- <kbd>→</kbd> - Прескача  до следващ момент от изборите в интерактивните менюта
+- <kbd>←</kbd> - Прескача  до предишен момент от изборите в интерактивните менюта
+- <kbd>Space</kbd> - Поставя видеото на пауза
 
-## Credit
+## Заслуги
 
 - based on [joric work](https://github.com/joric/bandersnatch) and [mehotkhan work](https://github.com/mehotkhan/BandersnatchInteractive)
