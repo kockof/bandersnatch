@@ -2,7 +2,7 @@
 
 With this online(html) video player you can watch `Bandersnatch` episode of `Black Mirror` **interactively**.
 
-[Live demo](https://mehotkhan.github.io/BandersnatchInteractive/)
+[Live demo](https://kockof.github.io/bandersnatch/)
 
 ## How to use
 
@@ -20,7 +20,7 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 
 - Only work on google chrome (Doesn't work on Firefox; codec problems)
 - Download `Bandersnatch` video file (`5:12:14`)
-- Drag it on white box on [page](https://mehotkhan.github.io/BandersnatchInteractive/) :)
+- Drag it on white box on [page](https://kockof.github.io/bandersnatch/) :)
 - `Persian`, `English`, `Bulgarian`, `Spanish`, `Hebrew`, `Portuguese`, `Greek`, `Turkish`, `Polish`, `Indonesian`, `Russian` , `French` , `Hungarian` , `Korean` ,`German`
 
 \*subtitle available, If you want add another language subtitle, tell me.
