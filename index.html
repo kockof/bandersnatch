@@ -32,7 +32,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Bandersnatch Interactive Player</title>
+	<title>Bandersnatch интерактивен плеър</title>
 	<meta name="description"
 		content="Stand-alone open-source interactive HTML player for Black Mirror - Bandersnatch" />
 	<meta name="keywords" content="Bandersnatch,Bandersnatch Interactive Player,Interactive Player,watch," />
@@ -45,7 +45,7 @@
 	<script>
 		// keep localizable strings out of scripts.js
 		function askReset() {
-			if (confirm('Are you sure you want to reset all choices, breadcrumbs, and watched scenes?'))
+			if (confirm('Искате ли да нулирате интерактивните сцени, избори и видеота?'))
 				reset();
 		}
 	</script>
@@ -61,62 +61,61 @@
 					<div class="file-area">
 						<div class="contact">
 							<div>
-								<span class="default">You can select translation of choices: </span>
+								<span class="default">Може да изберете език на менюто с избори: </span>
 								<select id="choice-translation">
 									<option value="ru" selected>Bulgarian</option>
 									<option value="en">English</option>
 									<option value="fr">French</option>
 								</select>
 								<br>
-								This player remembers your choices and watch history: <a
-								href="javascript:askReset()">Reset all</a>
+								Този плеър запомня интерактивните избори и до къде е гледан филма: <a
+								href="javascript:askReset()">Нулиране</a>
 							</div>
 							<p>
-								Authors:
-								<a href="https://github.com/joric/bandersnatch/">Original version</a> - <a
+								Автори:
+								<a href="https://github.com/joric/bandersnatch/">Оригинална версия</a> - <a
 									href="https://github.com/joric/">joric</a> |
-								Web page, subtitles - <a href="https://github.com/mehotkhan">Mehotkhan</a> |
+								Web страница, субтитри - <a href="https://github.com/mehotkhan">Mehotkhan</a> , 
+								<a href="https://github.com/kockof">Коцко</a> |
 								Many fixes, improvements, and everything else - <a
 									href="https://github.com/CyberShadow">CyberShadow</a>						
 							</p>
 						</div>
 						<input id="fileinput" type="file">
 						<div class="file-dummy">
-							<h2>Bandersnatch Interactive Player</h2>
-							<span class="default">Select Bandersnatch video file ( 5:12:14 ) </span>
-							<span class="success">Great, your file is selected</span>
+							<h2>Bandersnatch интерактивен плеър</h2>
+							<span class="default">Изберете файла с видеото Bandersnatch  ( 5:12:14 ) </span>
+							<span class="success">Чудесно, файлът е избран</span>
 							<ul class="file-tips">
-								<li>This player is known to work only on Google Chrome or Chromium.</li>
-								<li>Obtain the Bandersnatch video file (duration should be 5:12:14).<br>
-									Tested with <code>Black.Mirror.Bandersnatch.2018.720p.WEB-DL.x264.DUAL.mkv</code>,<br>
+								<li>Този плеър е изпробван и работи с Google Chrome или Chromium или Microsoft Edge.</li>
+								<li>Намерете филма Bandersnatch като видеофайл (трябва да е дълъг 5:12:14).<br>
+									Пробвано с  <code>Black.Mirror.Bandersnatch.2018.720p.WEB-DL.x264.DUAL.mkv</code>,<br>
 									<code>Black.Mirror.Bandersnatch.2018.MULTi.1080p.NF.WEB-DL.x264-NSP.mkv</code>,<br>
 									<code>Black.Mirror.Bandersnatch.2018.MULTi.720p.NF.WEB-DL.x264-NSP.mkv</code>.
 									
 								</li>
-								<li>Drag it on top of this box (or click here to select it).</li>
-								<li>Subtitles in many languages are available. If you the french audio you can chose French Forced Subtitle</li>
-								<li>To change the subtitle:
+								<li>Плъзнете файла тук (или натиснете за да го изберете).</li>
+								<li>Има субтитри на различни езици</li>
+								<li>За смяна на субтитрите:
 									<ol>
-										<li>Right click on the video</li>
-										<li>Enable "Show controls"</li>
-										<li>Click on the <span class="menu-item"></span> in the bottom-right</li>
-										<li>Select the desired subtitle</li>
-										<li>You can now hide the player controls in the same way as step 1-2.</li>
+										<li>Десен бутон върху видеото</li>
+										<li>Изберете "Покажи всички контроли"</li>
+										<li>Нтиснете <span class="menu-item"></span> долу в дясно</li>
+										<li>Изберете желаните субтитри</li>
+										<li>Може да скрийте контролите на плеъра със стъпки 1-2.</li>
 									</ol>
 								</li>
-								<li>Note: do not use the "full screen" button in the video player if you enable "Show
-									controls".
-									Choice selection interface will not be visible if you do this.</li>
+								<li>Бележка: не използвайте бутона "full screen" на плеъра ако е включено "Покажи всички контроли".
+									Няма да се виждат менютата с изборите .</li>
 							</ul>
 
 							<ul class="controls-tips">
-								<h6>Keyboard controls</h6>
-								<li><kbd>F</kbd> - Toggle fullscreen</li>
-								<li><kbd>R</kbd> - Restart video</li>
-								<li><kbd>→</kbd> / <kbd>←</kbd> - Jump to the next / previous segment (or interaction
-									zone)</li>
-								<li><kbd>↑</kbd> / <kbd>↓</kbd> - Speed up / slow down playback</li>
-								<li><kbd>Space</kbd> - Toggle play and pause</li>
+								<h6>Управление с клавиатура</h6>
+								<li><kbd>F</kbd> - Пуска и спира fullscreen</li>
+								<li><kbd>R</kbd> - Рестартира видеото</li>
+								<li><kbd>→</kbd> / <kbd>←</kbd> - Прескача  до следващ / предишен момент от изборите в интерактивните менюта</li>
+								<li><kbd>↑</kbd> / <kbd>↓</kbd> - Увеличава / намаля скоростта на видеото</li>
+								<li><kbd>Space</kbd> - Поставя видеото на пауза</li>
 							</ul>
 						</div>
 					</div>
