@@ -6,7 +6,7 @@ With this online(html) video player you can watch `Bandersnatch` episode of `Bla
 
 ## How to use
 
-The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & drop the file in [this](https://mehotkhan.github.io/BandersnatchInteractive/) page and enjoy!
+The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & drop the file in [this](https://kockof.github.io/bandersnatch) page and enjoy!
 
 ## Screenshot
 
