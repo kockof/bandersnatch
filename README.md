@@ -22,7 +22,7 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 - Only work on google chrome (Doesn't work on Firefox; codec problems)
 - Download `Bandersnatch` video file (`5:12:14`)
 - Drag it on white box on [page](https://mehotkhan.github.io/BandersnatchInteractive/) :)
-- `Persian`, `English`, `Arabic`, `Spanish`, `Hebrew`, `Portuguese`, `Greek`, `Turkish`, `Polish`, `Indonesian`, `Russian` , `French` , `Hungarian` , `Korean` ,`German`
+- `Persian`, `English`, `Bulgarian`, `Spanish`, `Hebrew`, `Portuguese`, `Greek`, `Turkish`, `Polish`, `Indonesian`, `Russian` , `French` , `Hungarian` , `Korean` ,`German`
 
 \*subtitle available, If you want add another language subtitle, tell me.
 
@@ -39,4 +39,4 @@ The only thing you need is 5hours video file of `Bandersnatch` episode, Drag & d
 
 ## Credit
 
-- based on [joric work](https://github.com/joric/bandersnatch)
+- based on [joric work](https://github.com/joric/bandersnatch) and [mehotkhan work](https://github.com/mehotkhan/BandersnatchInteractive)
