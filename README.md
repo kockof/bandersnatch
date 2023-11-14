@@ -1,6 +1,6 @@
 # Bandersnatch Интерактивен плеър (базиран върху html5 видео плеър)
 
-С този онлайн (html) видео плеър you мможе да гледате епизода`Bandersnatch` от `Black Mirror` **Интерактивно**.
+С този онлайн (html) видео плеър you може да гледате епизода`Bandersnatch` от `Black Mirror` **Интерактивно**.
 
 [Демо](https://kockof.github.io/bandersnatch/)
 
